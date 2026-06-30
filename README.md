@@ -40,73 +40,67 @@ on some Mac, a VPS, or a mini-PC in a warehouse.
 
 ## 🛠️ Tech & Tools
 
-<sub>Ordered by how much I actually use them. Darker = daily driver.</sub>
-
-| Level | Stack |
+| Category | Stack |
 |:--|:--|
-| 🟢🟢🟢🟢🟢 **Expert** | <img src="https://img.shields.io/badge/Python-0b3d3a?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-0b3d3a?style=flat&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/ESPHome-0b3d3a?style=flat&logo=esphome&logoColor=white" /> <img src="https://img.shields.io/badge/Home%20Assistant-0b3d3a?style=flat&logo=homeassistant&logoColor=white" /> <img src="https://img.shields.io/badge/Node--RED-0b3d3a?style=flat&logo=nodered&logoColor=white" /> <img src="https://img.shields.io/badge/EasyEDA%20(PCB)-0b3d3a?style=flat&logo=easyeda&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-0b3d3a?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-0b3d3a?style=flat&logo=linux&logoColor=white" /> |
-| 🟢🟢🟢🟢 **Advanced** | <img src="https://img.shields.io/badge/FastAPI-0f766e?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/InfluxDB-0f766e?style=flat&logo=influxdb&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-0f766e?style=flat&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-0f766e?style=flat&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-0f766e?style=flat&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-0f766e?style=flat&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Git-0f766e?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-0f766e?style=flat&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-0f766e?style=flat&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/3D%20Printing-0f766e?style=flat&logo=adafruit&logoColor=white" /> |
-| 🟢🟢🟢 **Proficient** | <img src="https://img.shields.io/badge/TypeScript-0e7490?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-0e7490?style=flat&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/React-0e7490?style=flat&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-0e7490?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-0e7490?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-0e7490?style=flat&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-0e7490?style=flat&logo=raspberrypi&logoColor=white" /> |
-| 🟢🟢 **Working** | <img src="https://img.shields.io/badge/Redis-2bbc8a?style=flat&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-2bbc8a?style=flat&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/DuckDB-2bbc8a?style=flat&logo=duckdb&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-2bbc8a?style=flat&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-2bbc8a?style=flat&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Express-2bbc8a?style=flat&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/Caddy-2bbc8a?style=flat&logo=caddy&logoColor=white" /> |
-| 🟢 **Familiar** | <img src="https://img.shields.io/badge/Kubernetes-8fd9c6?style=flat&logo=kubernetes&logoColor=0b3d3a" /> <img src="https://img.shields.io/badge/Helm-8fd9c6?style=flat&logo=helm&logoColor=0b3d3a" /> <img src="https://img.shields.io/badge/Three.js-8fd9c6?style=flat&logo=threedotjs&logoColor=0b3d3a" /> <img src="https://img.shields.io/badge/C%2B%2B-8fd9c6?style=flat&logo=cplusplus&logoColor=0b3d3a" /> <img src="https://img.shields.io/badge/Streamlit-8fd9c6?style=flat&logo=streamlit&logoColor=0b3d3a" /> <img src="https://img.shields.io/badge/Obsidian-8fd9c6?style=flat&logo=obsidian&logoColor=0b3d3a" /> |
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" /> |
+| **Backend & APIs** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" /> |
+| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> |
+| **Data** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white" /> <img src="https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black" /> |
+| **Infra & DevOps** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=flat&logo=helm&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Caddy-1F88C0?style=flat&logo=caddy&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white" /> |
+| **IoT & Hardware** | <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/ESPHome-000000?style=flat&logo=esphome&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Home%20Assistant-18BCF2?style=flat&logo=homeassistant&logoColor=white" /> <img src="https://img.shields.io/badge/Node--RED-8F0000?style=flat&logo=nodered&logoColor=white" /> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" /> |
+| **Hardware / PCB** | <img src="https://img.shields.io/badge/EasyEDA-1765DC?style=flat&logo=easyeda&logoColor=white" /> <img src="https://img.shields.io/badge/EAGLE-0696D7?style=flat&logo=autodesk&logoColor=white" /> <img src="https://img.shields.io/badge/PCB%20Design-314CB0?style=flat&logo=kicad&logoColor=white" /> <img src="https://img.shields.io/badge/3D%20Printing-000000?style=flat&logo=adafruit&logoColor=white" /> |
+| **AI & Automation** | <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/MCP-D97757?style=flat&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white" /> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" /> |
 
 ---
 
 ## Projects
 
-> 🔒 = private (description only, no code). The rest are public and clickable.
+<sub>🔒 = private (description only). The rest are public and clickable.</sub>
 
 ### 📈 Trading & prediction markets
-
-**momoneitor** 🔒 &nbsp; SOXL trading dashboard on my Mac, 24/7: laddered strategy, Telegram alerts. `FastAPI · Postgres · Claude`
-
-**HERMES** 🔒 &nbsp; Automated Polymarket fund: parallel strategy bots with hard safety limits. `Python · FastAPI · Redis`
-
-**atlas-vega-polymarket** 🔒 &nbsp; ~40 Polymarket bots (arbitrage, copy-trade, weather) on a shared risk core. `Python · launchd`
-
-**Tau** 🔒 &nbsp; A 24/7 AI agent plus a multi-agent trading core for Manifold and Polymarket. `Python`
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **Neitor** 🔒 | SOXL trading dashboard, 24/7, with Telegram alerts | FastAPI · Postgres · Claude |
+| **HERMES** 🔒 | Automated Polymarket fund with hard safety limits | Python · FastAPI · Redis |
+| **Atlas** 🔒 | ~40 Polymarket bots on a shared risk core | Python · launchd |
+| **Tau** 🔒 | 24/7 AI agent and multi-agent trading core | Python |
 
 ### 🌱 AgroTech, vertical farming (AgroUrbana)
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [**QiU**](https://github.com/jnrivra/QiU) ⭐ | Open-source ESP32 board for hydroponics | ESP32 · Hardware |
+| [**IvY_agents**](https://github.com/jnrivra/IvY_agents) | Vertical-farming AI suite (14-agent design system) | TypeScript · AI |
+| **Carmelo** 🔒 | Climate brain for 4 growing rooms | Node-RED · HA · Python |
+| **unify-guardian** 🔒 | 24/7 UniFi network monitoring and security | Docker · Prometheus |
+| **interfazFertiriego** 🔒 | Automated fertigation (Nextion + ESP32-S3) | ESPHome · ESP32 |
 
-**[QiU](https://github.com/jnrivra/QiU)** ⭐ &nbsp; Open-source ESP32 board for hydroponics: relays, dosing pumps, pH/EC sensing. `ESP32 · Hardware`
-
-**[IvY_agents](https://github.com/jnrivra/IvY_agents)** &nbsp; Vertical-farming AI suite: a 14-agent design system plus React dashboards. `TypeScript · AI`
-
-**Carmelo** 🔒 &nbsp; Climate brain for 4 growing rooms (Node-RED + Home Assistant, tools exposed to Claude via MCP). `Node-RED · Python`
-
-**unify-guardian** 🔒 &nbsp; 24/7 monitoring and security for a UniFi network in Docker. `Docker · Prometheus · Python`
-
-**interfazFertiriego** 🔒 &nbsp; Automated fertigation: Nextion touchscreen + ESP32-S3 + relays on ESPHome/HA. `ESPHome · ESP32`
-
-*Plus the crop-analysis family (private):* **vpdAnalisis**, **dataRabbit**, **RabbitData**, **Analisis-Cultivo**, **HomeAssistant-AUditor**, web/Streamlit apps to track VPD and review sensor history. Also public: **[EZO_PRS](https://github.com/jnrivra/EZO_PRS)** and **[Eagle-Libraries](https://github.com/jnrivra/Eagle-Libraries)**.
+<sub>Plus the crop-analysis family (private): **vpdAnalisis · dataRabbit · RabbitData · Analisis-Cultivo · HomeAssistant-AUditor** (web/Streamlit apps for VPD and sensor history). Public too: [EZO_PRS](https://github.com/jnrivra/EZO_PRS) · [Eagle-Libraries](https://github.com/jnrivra/Eagle-Libraries).</sub>
 
 ### 💊 Public-health data
-
-**Mercado-Pharma-Stack** · **MP-Scrapper** 🔒 &nbsp; Chile's public pharma-spend data, cleaned into a database and dashboard with an AI assistant. `Python · Next.js · Supabase`
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **Mercado-Pharma-Stack** 🔒 | Chile's public pharma-spend data into a dashboard with AI | Python · Next.js · Supabase |
 
 ### 🏥 Health & medical hardware
-
-**[proyecto-suena](https://github.com/jnrivra/proyecto-suena)** &nbsp; ESP32 firmware (UC CHRISTUS) for hospital rest-area sensing over MQTT. `C++ · ESP32 · MQTT`
-
-**[uvcCalculator](https://github.com/jnrivra/uvcCalculator)** &nbsp; 3D UV-C dose simulator for HVAC duct air disinfection. `React · Three.js`
-
-**clinica-kr** 🔒 &nbsp; Launch kit for an aesthetic-medicine clinic: brand, web, marketing, equipment, legal. `Odoo · n8n`
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [**proyecto-suena**](https://github.com/jnrivra/proyecto-suena) | Hospital rest-area sensing over MQTT (UC CHRISTUS) | C++ · ESP32 |
+| [**uvcCalculator**](https://github.com/jnrivra/uvcCalculator) | 3D UV-C dose simulator for HVAC disinfection | React · Three.js |
+| **clinica-kr** 🔒 | Launch kit for an aesthetic-medicine clinic | Odoo · n8n |
 
 ### 🤖 AI, content & civic tech
-
-**[conecta_catemu](https://github.com/jnrivra/conecta_catemu)** &nbsp; Municipal civic participation over WhatsApp with AI (Hackathon 2025). `Express · Claude · n8n`
-
-**[creador_rol](https://github.com/jnrivra/creador_rol)** &nbsp; Dual-screen web RPG companion for kids (4-8), zero dependencies. `Vanilla JS`
-
-**mawida-broll-tools** 🔒 &nbsp; AI B-roll prompts for regulated niches, sanitizing sensitive terms at export. `Node · Claude API`
-
-**Triangulatron** 🔒 &nbsp; Local app that drafts reports for Chile's Torture Prevention Committee. `Python · Flask · Claude`
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [**conecta_catemu**](https://github.com/jnrivra/conecta_catemu) | Civic participation over WhatsApp with AI (Hackathon) | Express · Claude · n8n |
+| [**creador_rol**](https://github.com/jnrivra/creador_rol) | Dual-screen web RPG companion for kids | Vanilla JS |
+| **mawida-broll-tools** 🔒 | AI B-roll prompts for regulated niches | Node · Claude API |
+| **Triangulatron** 🔒 | Drafts reports for Chile's Torture Prevention Committee | Python · Flask |
 
 ### 🧰 Utilities
-
-**[fintual_devops_interview](https://github.com/jnrivra/fintual_devops_interview)** &nbsp; Django/Postgres prototype turned operable service (N+1 fixed, 96s to 54ms). `Django · K8s`
-
-**[etiquetatron](https://github.com/jnrivra/etiquetatron)** &nbsp; Desktop app that extracts shipping labels from PDFs to 300 DPI images. `Python`
+| Project | What it does | Stack |
+|:--|:--|:--|
+| [**fintual_devops_interview**](https://github.com/jnrivra/fintual_devops_interview) | Django/Postgres prototype turned operable service | Django · K8s |
+| [**etiquetatron**](https://github.com/jnrivra/etiquetatron) | Extracts shipping labels from PDFs to 300 DPI images | Python |
 
 ---
 
