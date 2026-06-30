@@ -1,6 +1,6 @@
 <!-- HERO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,30:4f46e5,60:0891b2,100:0f766e&height=240&section=header&text=Juan%20Rivera%20Olivares&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=Self-taught%20builder%20of%20autonomous%2C%20maintenance-free%20systems&descSize=18&descAlignY=60&descColor=e0e7ff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:1e3a8a,100:134e4a&height=210&section=header&text=Juan%20Rivera%20Olivares&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Self-taught%20builder%20of%20autonomous%2C%20maintenance-free%20systems&descSize=17&descAlignY=57&descColor=cbd5e1" width="100%" />
 </p>
 
 <!-- SOCIAL -->
@@ -115,5 +115,5 @@ on some Mac, a VPS, or a mini-PC in a warehouse.
 <p align="center"><sub>Most of my repos are private. Reach out if you want a look inside.</sub></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f766e,40:0891b2,70:4f46e5,100:7c3aed&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,50:1e3a8a,100:312e81&height=110&section=footer" width="100%" />
 </p>
