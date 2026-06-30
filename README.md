@@ -1,17 +1,20 @@
-# Juan Enrique Rivera
-
-<!-- Opcional: reemplaza la URL por una foto/hero tuya (sube la imagen al repo o usa un link) -->
-<!--
+<!-- HERO -->
 <p align="center">
-  <img src="URL_DE_TU_FOTO" width="600" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0e7490,100:0f766e&height=200&section=header&text=Juan%20Enrique%20Rivera&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Del%20sensor%20en%20terreno%20al%20dashboard%20%C2%B7%20del%20dato%20crudo%20a%20la%20decisi%C3%B3n&descSize=17&descAlignY=58&descColor=dbeafe" width="100%" />
 </p>
--->
+
+<!-- SOCIAL — reemplaza TU-USUARIO en LinkedIn por el tuyo -->
+<p align="center">
+  <a href="mailto:0jnrivera@gmail.com"><img src="https://img.shields.io/badge/Email-0f766e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-1e3a8a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/jnrivra"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Santiago,%20Chile-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación" />
+</p>
 
 <p align="center"><i>
 Estudié para construir edificios y terminé construyendo software.<br/>
-Me gusta agarrar un problema feo —del campo, de la salud, del mercado— y bajarlo<br/>
-a un sistema que funcione solo, 24/7, sin que nadie lo esté mirando.<br/>
-Del sensor en terreno al dashboard. Del dato crudo a la decisión.<br/>
+Me gusta agarrar un problema feo —del campo, de la salud, del mercado—<br/>
+y bajarlo a un sistema que funcione solo, 24/7, sin que nadie lo esté mirando.<br/>
 Casi nada de lo que hay acá es una demo: está corriendo ahora mismo<br/>
 en algún Mac, un VPS o un mini-PC en una bodega.
 </i></p>
@@ -20,13 +23,13 @@ en algún Mac, un VPS o un mini-PC en una bodega.
 
 ## Ahora
 
-**Construyendo** sistemas que operan solos: trading (**momoneitor**, **HERMES**), un huerto vertical entero (**Carmelo**) y pipelines de datos públicos (**Mercado-Pharma-Stack**).
+🚀 &nbsp;**Construyendo** sistemas que operan solos: trading (**momoneitor**, **HERMES**), un huerto vertical entero (**Carmelo**) y pipelines de datos públicos (**Mercado-Pharma-Stack**).
 
-**A fondo con Claude Code y arquitectura de agentes** — documenté y dejé impecables +25 repos con esto, varios usan agentes y MCP en producción.
+🤖 &nbsp;**A fondo con Claude Code y arquitectura de agentes** — documenté y dejé impecables +25 repos con esto; varios usan agentes y MCP en producción.
 
-**Constructor Civil UC** que pasó de la obra a la ingeniería de proyectos TI y de ahí al software. Mezclo mundo físico (ESP32, PCBs, riego, clima) con backend, datos e IA.
+🏗️ &nbsp;**Constructor Civil UC** que pasó de la obra a la ingeniería de proyectos TI y de ahí al software. Mezclo mundo físico (ESP32, PCBs, riego, clima) con backend, datos e IA.
 
-**Disponible para** consultoría y proyectos — automatización, agentes de IA, IoT/agro y data. Escríbeme por acá o por [LinkedIn](https://www.linkedin.com/in/).
+💬 &nbsp;**Disponible para** consultoría y proyectos — automatización, agentes de IA, IoT/agro y data.
 
 ---
 
@@ -88,4 +91,12 @@ en algún Mac, un VPS o un mini-PC en una bodega.
 
 ---
 
-<sub>La mayoría de mis repos son privados — escríbeme si quieres ver alguno por dentro.</sub>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jnrivra&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=graywhite&title_color=0e7490&icon_color=0f766e&text_color=444&hide=issues" height="150" />
+</p>
+
+<p align="center"><sub>La mayoría de mis repos son privados — escríbeme si quieres ver alguno por dentro.</sub></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0e7490,100:1e3a8a&height=90&section=footer" width="100%" />
+</p>
