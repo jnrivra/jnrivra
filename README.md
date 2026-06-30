@@ -6,7 +6,7 @@
 <!-- SOCIAL — reemplaza TU-USUARIO en LinkedIn por el tuyo -->
 <p align="center">
   <a href="mailto:0jnrivera@gmail.com"><img src="https://img.shields.io/badge/Email-0f766e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-1e3a8a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/jnrivra/"><img src="https://img.shields.io/badge/LinkedIn-1e3a8a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/jnrivra"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Santiago,%20Chile-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación" />
 </p>
