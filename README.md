@@ -27,7 +27,7 @@ en algún Mac, un VPS o un mini-PC en una bodega.
 
 🤖 &nbsp;**A fondo con Claude Code y arquitectura de agentes** — documenté y dejé impecables +25 repos con esto; varios usan agentes y MCP en producción.
 
-🔌 &nbsp;**Diseño hardware** — 50+ PCBs en EasyEDA Pro para el huerto vertical (sensores SHT45/CO₂, relés, control de luces y bombas, medición de consumo trifásico, balanzas); varias llegaron a producción. La versión open-source es **QiU**.
+🔌 &nbsp;**Diseño hardware** — 50+ diseños de PCB en EasyEDA Pro para el huerto vertical (sensores SHT45/CO₂, relés, control de luces y bombas, medición de consumo trifásico, balanzas), de los cuales 12+ llegaron a **producción en ambiente industrial**. La versión open-source es **QiU**.
 
 🏗️ &nbsp;**Constructor Civil UC** que pasó de la obra a la ingeniería de proyectos TI y de ahí al software. Mezclo mundo físico (ESP32, PCBs, riego, clima) con backend, datos e IA.
 
