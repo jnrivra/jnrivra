@@ -13,7 +13,7 @@
 </p>
 
 <p align="center"><i>
-I trained to build buildings and ended up building software.<br/>
+I'm a Civil Constructor from PUC Chile who taught himself everything else.<br/>
 I take an ugly problem (from the field, from health, from markets)<br/>
 and turn it into a system that runs on its own, 24/7, with nobody watching.<br/>
 Almost nothing here is a demo: it is running right now<br/>
