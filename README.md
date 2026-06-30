@@ -34,7 +34,7 @@ en algún Mac, un VPS o un mini-PC en una bodega.
 
 🔌 &nbsp;**Diseño hardware** — 50+ diseños de PCB en EasyEDA Pro, de los cuales 12+ llegaron a **producción en ambiente industrial**. La versión open-source es **QiU**.
 
-🏗️ &nbsp;**Constructor Civil UC**, ex-cofundador de **NuLight** (iF Design Award) y **Smart Home Chile**. Mezclo mundo físico (ESP32, PCBs, riego, clima) con backend, datos e IA.
+🏗️ &nbsp;**Constructor Civil UC**, ex-cofundador de **NuLight** (Start-Up Chile, 1er lugar Socialab) y **Smart Home Chile**. Mezclo mundo físico (ESP32, PCBs, riego, clima) con backend, datos e IA.
 
 💬 &nbsp;**Disponible para** (open to) consultoría y proyectos — automatización, agentes de IA, IoT/agro y data.
 
