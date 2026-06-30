@@ -42,6 +42,8 @@ on some Mac, a VPS, or a mini-PC in a warehouse.
 
 <sub>Each row ordered by how much I use it: most-used on the left, fading to the right.</sub>
 
+<img src="https://img.shields.io/badge/Daily%20driver-064e3b?style=flat" /> <img src="https://img.shields.io/badge/Often-047857?style=flat" /> <img src="https://img.shields.io/badge/Sometimes-10b981?style=flat" /> <img src="https://img.shields.io/badge/Familiar-a7f3d0?style=flat" />
+
 | Category | Stack |
 |:--|:--|
 | **Languages** | <img src="https://img.shields.io/badge/Python-064e3b?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-047857?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-059669?style=flat&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-34d399?style=flat&logo=gnubash&logoColor=064e3b" /> <img src="https://img.shields.io/badge/C%2B%2B-a7f3d0?style=flat&logo=cplusplus&logoColor=064e3b" /> |
