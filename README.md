@@ -24,7 +24,7 @@ en algún Mac, un VPS o un mini-PC en una bodega.
 
 ## Ahora
 
-🌱 &nbsp;**Control & Automation Engineer @ AgroUrbana** (hace 4+ años) — construyo el AgTech detrás de un huerto vertical hidropónico para producir comida más sustentable: del algoritmo de clima al PCB que lo ejecuta.
+🌱 &nbsp;**Lideré la tecnología de AgroUrbana** (4+ años) — entré como Ingeniero de Proyectos TI y terminé a cargo de **toda la tecnología de la empresa**: el AgTech de un huerto vertical hidropónico para producir comida más sustentable, del algoritmo de clima al PCB que lo ejecuta.
 
 🍄 &nbsp;**Cultivo y extraigo hongos medicinales** en [mushfarms.cl](https://mushfarms.cl) (part-time) — salud y bienestar.
 
