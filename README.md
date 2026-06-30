@@ -8,6 +8,7 @@
   <a href="mailto:0jnrivera@gmail.com"><img src="https://img.shields.io/badge/Email-0f766e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/jnrivra/"><img src="https://img.shields.io/badge/LinkedIn-1e3a8a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/jnrivra"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://mushfarms.cl"><img src="https://img.shields.io/badge/mushfarms.cl-0e7490?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" /></a>
   <img src="https://img.shields.io/badge/Santiago,%20Chile-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación" />
 </p>
 
@@ -23,15 +24,19 @@ en algún Mac, un VPS o un mini-PC en una bodega.
 
 ## Ahora
 
-🚀 &nbsp;**Construyendo** sistemas que operan solos: trading (**momoneitor**, **HERMES**), un huerto vertical entero (**Carmelo**) y pipelines de datos públicos (**Mercado-Pharma-Stack**).
+🌱 &nbsp;**Control & Automation Engineer @ AgroUrbana** (hace 4+ años) — construyo el AgTech detrás de un huerto vertical hidropónico para producir comida más sustentable: del algoritmo de clima al PCB que lo ejecuta.
 
-🤖 &nbsp;**A fondo con Claude Code y arquitectura de agentes** — documenté y dejé impecables +25 repos con esto; varios usan agentes y MCP en producción.
+🍄 &nbsp;**Cultivo y extraigo hongos medicinales** en [mushfarms.cl](https://mushfarms.cl) (part-time) — salud y bienestar.
 
-🔌 &nbsp;**Diseño hardware** — 50+ diseños de PCB en EasyEDA Pro para el huerto vertical (sensores SHT45/CO₂, relés, control de luces y bombas, medición de consumo trifásico, balanzas), de los cuales 12+ llegaron a **producción en ambiente industrial**. La versión open-source es **QiU**.
+🚀 &nbsp;**Construyendo** sistemas que operan solos: trading (**momoneitor**, **HERMES**), el clima del huerto (**Carmelo**) y pipelines de datos públicos (**Mercado-Pharma-Stack**).
 
-🏗️ &nbsp;**Constructor Civil UC** que pasó de la obra a la ingeniería de proyectos TI y de ahí al software. Mezclo mundo físico (ESP32, PCBs, riego, clima) con backend, datos e IA.
+🤖 &nbsp;**A fondo con Claude Code y arquitectura de agentes** — documenté y dejé impecables +25 repos; varios usan agentes y MCP en producción.
 
-💬 &nbsp;**Disponible para** consultoría y proyectos — automatización, agentes de IA, IoT/agro y data.
+🔌 &nbsp;**Diseño hardware** — 50+ diseños de PCB en EasyEDA Pro, de los cuales 12+ llegaron a **producción en ambiente industrial**. La versión open-source es **QiU**.
+
+🏗️ &nbsp;**Constructor Civil UC**, ex-cofundador de **NuLight** (iF Design Award) y **Smart Home Chile**. Mezclo mundo físico (ESP32, PCBs, riego, clima) con backend, datos e IA.
+
+💬 &nbsp;**Disponible para** (open to) consultoría y proyectos — automatización, agentes de IA, IoT/agro y data.
 
 ---
 
